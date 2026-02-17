@@ -1,0 +1,1710 @@
+2025-12-04 15:36:28  lfjazda
+2025-12-04 15:36:29  Odpowiedz Arduino: ACK
+2025-12-04 15:36:29  Odpowiedz Arduino: Otrzymano komendę: LFJ
+2025-12-04 15:36:29  Odpowiedz Arduino: Nieznana komenda.
+2025-12-04 15:36:29  [Watchdog]: Wysłano PING
+2025-12-04 15:36:30  [Watchdog]: Arduino OK
+2025-12-04 15:36:38  [Watchdog]: Wysłano PING
+2025-12-04 15:36:38  [Watchdog]: Arduino OK
+2025-12-04 15:36:46  [Watchdog]: Wysłano PING
+2025-12-04 15:36:46  [Watchdog]: Arduino OK
+2025-12-04 15:36:54  [Watchdog]: Wysłano PING
+2025-12-04 15:36:54  [Watchdog]: Arduino OK
+2025-12-04 15:37:02  [Watchdog]: Wysłano PING
+2025-12-04 15:37:02  [Watchdog]: Arduino OK
+2025-12-04 15:37:10  [Watchdog]: Wysłano PING
+2025-12-04 15:37:10  [Watchdog]: Arduino OK
+2025-12-04 15:37:18  [Watchdog]: Wysłano PING
+2025-12-04 15:37:18  [Watchdog]: Arduino OK
+2025-12-04 15:37:26  [Watchdog]: Wysłano PING
+2025-12-04 15:37:26  [Watchdog]: Arduino OK
+2025-12-04 15:37:34  [Watchdog]: Wysłano PING
+2025-12-04 15:37:34  [Watchdog]: Arduino OK
+2025-12-04 15:37:42  [Watchdog]: Wysłano PING
+2025-12-04 15:37:42  [Watchdog]: Arduino OK
+2025-12-04 15:37:50  [Watchdog]: Wysłano PING
+2025-12-04 15:37:50  [Watchdog]: Arduino OK
+2025-12-04 15:37:58  [Watchdog]: Wysłano PING
+2025-12-04 15:37:58  [Watchdog]: Arduino OK
+2025-12-04 15:38:06  [Watchdog]: Wysłano PING
+2025-12-04 15:38:06  [Watchdog]: Arduino OK
+2025-12-04 15:38:14  [Watchdog]: Wysłano PING
+2025-12-04 15:38:14  [Watchdog]: Arduino OK
+2025-12-04 15:38:36  lfjazda
+2025-12-04 15:38:37  Odpowiedz Arduino: ACK
+2025-12-04 15:38:37  Odpowiedz Arduino: Otrzymano komendę: lfjazda
+2025-12-04 15:38:37  Odpowiedz Arduino: Nieznana komenda.
+2025-12-04 15:38:39  [Watchdog]: Wysłano PING
+2025-12-04 15:38:40  [Watchdog]: Arduino OK
+2025-12-04 15:38:48  [Watchdog]: Wysłano PING
+2025-12-04 15:38:48  [Watchdog]: Arduino OK
+2025-12-04 15:38:56  [Watchdog]: Wysłano PING
+2025-12-04 15:38:56  [Watchdog]: Arduino OK
+2025-12-04 15:39:09  lfjazda
+2025-12-04 15:39:10  Odpowiedz Arduino: ACK
+2025-12-04 15:39:10  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-04 15:39:10  Odpowiedz Arduino: JAZDAAAAAA KURWAAAAAAAAAAAAA
+2025-12-04 15:39:13  [Watchdog]: Wysłano PING
+2025-12-04 15:39:14  [Watchdog]: Arduino OK
+2025-12-04 18:00:50  [Watchdog]: Wysłano PING
+2025-12-04 18:00:51  [Watchdog]: Arduino OK
+2025-12-04 18:00:59  [Watchdog]: Wysłano PING
+2025-12-04 18:00:59  [Watchdog]: Arduino OK
+2025-12-04 18:01:07  [Watchdog]: Wysłano PING
+2025-12-04 18:01:07  [Watchdog]: Arduino OK
+2025-12-04 18:01:15  [Watchdog]: Wysłano PING
+2025-12-04 18:01:15  [Watchdog]: Arduino OK
+2025-12-04 18:01:23  [Watchdog]: Wysłano PING
+2025-12-04 18:01:23  [Watchdog]: Arduino OK
+2025-12-04 18:01:26  lfjazda
+2025-12-04 18:01:27  Odpowiedz Arduino: ACK
+2025-12-04 18:01:27  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-04 18:01:31  [Watchdog]: Wysłano PING
+2025-12-04 18:01:32  [Watchdog]: Arduino OK
+2025-12-04 18:01:40  [Watchdog]: Wysłano PING
+2025-12-04 18:01:40  [Watchdog]: Arduino OK
+2025-12-04 18:01:48  [Watchdog]: Wysłano PING
+2025-12-04 18:01:48  [Watchdog]: Arduino OK
+2025-12-04 18:01:56  [Watchdog]: Wysłano PING
+2025-12-04 18:01:56  [Watchdog]: Arduino OK
+2025-12-04 18:02:04  [Watchdog]: Wysłano PING
+2025-12-04 18:02:04  [Watchdog]: Arduino OK
+2025-12-04 18:02:39  lfjazda
+2025-12-04 18:02:40  Odpowiedz Arduino: ACK
+2025-12-04 18:02:40  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-04 18:02:43  [Watchdog]: Wysłano PING
+2025-12-04 18:03:41  [Watchdog]: Arduino OK
+2025-12-04 18:21:58  [Watchdog]: Wysłano PING
+2025-12-04 18:21:59  [Watchdog]: Arduino OK
+2025-12-04 18:21:59  lfjazda
+2025-12-04 18:21:59  Odpowiedz Arduino: trzymano komendę: PING
+2025-12-04 18:21:59  Odpowiedz Arduino: PONG
+2025-12-04 18:22:04  lfjazda
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:04  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:05  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:06  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:07  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:08  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:09  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:29  lfjazda
+2025-12-04 18:22:30  Odpowiedz Arduino: ACK
+2025-12-04 18:22:30  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-04 18:22:34  [Watchdog]: Wysłano PING
+2025-12-04 18:22:34  [Watchdog]: Arduino OK
+2025-12-04 18:22:35  lfjazda
+2025-12-04 18:22:35  Odpowiedz Arduino: ADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:35  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:36  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:37  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JADE
+2025-12-04 18:22:38  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:02:30  lfjazda
+2025-12-05 10:09:08  [Watchdog]: Wysłano PING
+2025-12-05 10:09:09  [Watchdog]: Arduino OK
+2025-12-05 10:09:09  lfjazda
+2025-12-05 10:09:09  Odpowiedz Arduino: trzymano komendę: PING
+2025-12-05 10:09:09  Odpowiedz Arduino: PONG
+2025-12-05 10:09:14  lfjazda
+2025-12-05 10:09:14  Odpowiedz Arduino: JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:14  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:15  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:16  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:17  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:18  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:19  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:09:20  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:10:20  lfjazda
+2025-12-05 10:10:21  Odpowiedz Arduino: ACK
+2025-12-05 10:10:21  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 10:10:23  [Watchdog]: Wysłano PING
+2025-12-05 10:10:23  [Watchdog]: Arduino OK
+2025-12-05 10:10:31  [Watchdog]: Wysłano PING
+2025-12-05 10:10:31  [Watchdog]: Arduino OK
+2025-12-05 10:10:39  [Watchdog]: Wysłano PING
+2025-12-05 10:10:39  [Watchdog]: Arduino OK
+2025-12-05 10:12:49  [Watchdog]: Wysłano PING
+2025-12-05 10:12:49  [Watchdog]: Arduino OK
+2025-12-05 10:18:09  lfjazda
+2025-12-05 10:18:10  Odpowiedz Arduino: ACK
+2025-12-05 10:18:10  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 10:18:10  [Watchdog]: Wysłano PING
+2025-12-05 10:18:10  [Watchdog]: Arduino OK
+2025-12-05 10:18:18  [Watchdog]: Wysłano PING
+2025-12-05 10:18:18  [Watchdog]: Arduino OK
+2025-12-05 10:18:22  lfjazda
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:22  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:23  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:24  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:25  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JESTEM W SRODKU
+2025-12-05 10:18:26  Odpowiedz Arduino: ALE JADE
+2025-12-05 10:33:25  lfjazda
+2025-12-05 10:33:26  Odpowiedz Arduino: ACK
+2025-12-05 10:33:26  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 10:33:26  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 10:33:31  [Watchdog]: Wysłano PING
+2025-12-05 10:33:32  [Watchdog]: Arduino OK
+2025-12-05 10:37:28  lfjazda
+2025-12-05 10:37:29  Odpowiedz Arduino: ACK
+2025-12-05 10:37:29  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 10:37:29  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 10:37:34  [Watchdog]: Wysłano PING
+2025-12-05 10:37:36  [Watchdog]: Arduino OK
+2025-12-05 10:39:18  lfjazda
+2025-12-05 10:39:19  Odpowiedz Arduino: ACK
+2025-12-05 10:39:19  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 10:39:19  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 10:39:24  [Watchdog]: Wysłano PING
+2025-12-05 10:39:25  [Watchdog]: Arduino OK
+2025-12-05 10:41:36  lfjazda
+2025-12-05 10:41:37  Odpowiedz Arduino: ACK
+2025-12-05 10:41:37  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 10:41:37  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 10:41:42  [Watchdog]: Wysłano PING
+2025-12-05 10:41:43  [Watchdog]: Arduino OK
+2025-12-05 10:43:23  lfjazda
+2025-12-05 10:43:24  Odpowiedz Arduino: ACK
+2025-12-05 10:43:24  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 10:43:24  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 10:43:29  [Watchdog]: Wysłano PING
+2025-12-05 10:43:30  [Watchdog]: Arduino OK
+2025-12-05 10:50:17  [Watchdog]: Wysłano PING
+2025-12-05 10:50:17  [Watchdog]: Arduino OK
+2025-12-05 10:50:25  [Watchdog]: Wysłano PING
+2025-12-05 10:50:25  [Watchdog]: Arduino OK
+2025-12-05 10:50:31  lfjazda
+2025-12-05 10:50:32  Odpowiedz Arduino: ACK
+2025-12-05 10:50:32  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 10:50:32  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 10:50:37  [Watchdog]: Wysłano PING
+2025-12-05 10:50:39  [Watchdog]: Brak odpowiedzi!
+2025-12-05 10:50:51  [Watchdog]: Wysłano PING
+2025-12-05 10:50:51  [Watchdog]: Arduino OK
+2025-12-05 10:51:39  [Watchdog]: Wysłano PING
+2025-12-05 10:51:39  [Watchdog]: Arduino OK
+2025-12-05 10:51:47  [Watchdog]: Wysłano PING
+2025-12-05 10:51:47  [Watchdog]: Arduino OK
+2025-12-05 10:51:53  lfjazda
+2025-12-05 10:51:54  Odpowiedz Arduino: ACK
+2025-12-05 10:51:54  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 10:51:54  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 10:51:59  [Watchdog]: Wysłano PING
+2025-12-05 10:52:01  [Watchdog]: Brak odpowiedzi!
+2025-12-05 10:52:13  [Watchdog]: Wysłano PING
+2025-12-05 10:52:13  [Watchdog]: Arduino OK
+2025-12-05 10:52:21  [Watchdog]: Wysłano PING
+2025-12-05 10:52:21  [Watchdog]: Arduino OK
+2025-12-05 10:52:29  [Watchdog]: Wysłano PING
+2025-12-05 10:52:29  [Watchdog]: Arduino OK
+2025-12-05 10:54:16  [Watchdog]: Wysłano PING
+2025-12-05 10:54:16  [Watchdog]: Arduino OK
+2025-12-05 10:54:17  lfjazda
+2025-12-05 10:54:18  Odpowiedz Arduino: ACK
+2025-12-05 10:54:18  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 10:54:18  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 10:54:24  [Watchdog]: Wysłano PING
+2025-12-05 10:54:24  [Watchdog]: Arduino OK
+2025-12-05 11:02:45  [Watchdog]: Wysłano PING
+2025-12-05 11:02:45  [Watchdog]: Arduino OK
+2025-12-05 11:02:53  [Watchdog]: Wysłano PING
+2025-12-05 11:02:53  [Watchdog]: Arduino OK
+2025-12-05 11:03:01  [Watchdog]: Wysłano PING
+2025-12-05 11:03:01  [Watchdog]: Arduino OK
+2025-12-05 11:03:09  [Watchdog]: Wysłano PING
+2025-12-05 11:03:09  [Watchdog]: Arduino OK
+2025-12-05 11:03:17  lfjazda
+2025-12-05 11:03:18  Odpowiedz Arduino: ACK
+2025-12-05 11:03:18  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 11:03:18  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 11:03:23  [Watchdog]: Wysłano PING
+2025-12-05 11:03:24  [Watchdog]: Arduino OK
+2025-12-05 11:03:59  lfjazda
+2025-12-05 11:04:00  Odpowiedz Arduino: ACK
+2025-12-05 11:04:00  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 11:04:00  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 11:04:05  [Watchdog]: Wysłano PING
+2025-12-05 11:04:06  [Watchdog]: Arduino OK
+2025-12-05 11:06:45  lfjazda
+2025-12-05 11:06:46  Odpowiedz Arduino: ACK
+2025-12-05 11:06:46  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 11:06:46  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 11:06:51  [Watchdog]: Wysłano PING
+2025-12-05 11:06:52  [Watchdog]: Arduino OK
+2025-12-05 11:07:22  lfjazda
+2025-12-05 11:07:23  Odpowiedz Arduino: ACK
+2025-12-05 11:07:23  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 11:07:23  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 11:07:28  [Watchdog]: Wysłano PING
+2025-12-05 11:07:30  [Watchdog]: Arduino OK
+2025-12-05 11:25:27  [Watchdog]: Wysłano PING
+2025-12-05 11:25:27  [Watchdog]: Arduino OK
+2025-12-05 11:25:28  lfjazda
+2025-12-05 11:25:29  Odpowiedz Arduino: Błąd: Niepoprawna suma kontrolna 252  211  PING:46LFJAZDA:252
+2025-12-05 11:25:35  [Watchdog]: Wysłano PING
+2025-12-05 11:25:36  [Watchdog]: Arduino OK
+2025-12-05 11:25:36  lfjazda
+2025-12-05 11:25:37  Odpowiedz Arduino: ND
+2025-12-05 11:25:38  Odpowiedz Arduino: ACK
+2025-12-05 11:25:38  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 11:25:38  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 11:25:44  [Watchdog]: Wysłano PING
+2025-12-05 11:25:45  [Watchdog]: Arduino OK
+2025-12-05 11:32:50  [Watchdog]: Wysłano PING
+2025-12-05 11:32:50  [Watchdog]: Arduino OK
+2025-12-05 11:32:51  lfjazda
+2025-12-05 11:32:52  Odpowiedz Arduino: ACK
+2025-12-05 11:32:52  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 11:32:52  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 11:32:58  [Watchdog]: Wysłano PING
+2025-12-05 11:32:58  [Watchdog]: Arduino OK
+2025-12-05 11:46:37  lfjazda
+2025-12-05 11:46:38  Odpowiedz Arduino: ACK
+2025-12-05 11:46:38  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 11:46:38  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 11:46:43  [Watchdog]: Wysłano PING
+2025-12-05 11:46:45  [Watchdog]: Arduino OK
+2025-12-05 11:47:11  lfjazda
+2025-12-05 11:47:12  Odpowiedz Arduino: ACK
+2025-12-05 11:47:12  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 11:47:12  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 11:47:17  [Watchdog]: Wysłano PING
+2025-12-05 11:47:18  [Watchdog]: Arduino OK
+2025-12-05 11:49:34  lfjazda
+2025-12-05 11:49:35  Odpowiedz Arduino: ACK
+2025-12-05 11:49:35  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-05 11:49:35  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-05 11:49:40  [Watchdog]: Wysłano PING
+2025-12-05 11:49:42  [Watchdog]: Arduino OK
+2025-12-07 23:01:37  lfjazda
+2025-12-07 23:01:40  Odpowiedz Arduino: 
+2025-12-07 23:01:45  [Watchdog]: Wysłano PING
+2025-12-07 23:02:06  lfjazda
+2025-12-07 23:02:07  Odpowiedz Arduino: ACK
+2025-12-07 23:02:07  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-07 23:02:07  Odpowiedz Arduino: Rozpoczynam Jazde po linii
+2025-12-07 23:02:07  Odpowiedz Arduino: Kalibracja TRSensors...
+2025-12-07 23:02:12  [Watchdog]: Wysłano PING
+2025-12-07 23:02:13  [Watchdog]: Arduino OK
+2025-12-07 23:02:21  [Watchdog]: Wysłano PING
+2025-12-07 23:02:21  [Watchdog]: Arduino OK
+2025-12-07 23:02:29  [Watchdog]: Wysłano PING
+2025-12-07 23:02:29  [Watchdog]: Arduino OK
+2025-12-07 23:02:37  [Watchdog]: Wysłano PING
+2025-12-07 23:02:37  [Watchdog]: Arduino OK
+2025-12-07 23:02:45  [Watchdog]: Wysłano PING
+2025-12-07 23:02:45  [Watchdog]: Arduino OK
+2025-12-07 23:02:53  [Watchdog]: Wysłano PING
+2025-12-07 23:02:53  [Watchdog]: Arduino OK
+2025-12-07 23:03:01  [Watchdog]: Wysłano PING
+2025-12-07 23:03:01  [Watchdog]: Arduino OK
+2025-12-07 23:03:09  [Watchdog]: Wysłano PING
+2025-12-07 23:03:09  [Watchdog]: Arduino OK
+2025-12-07 23:03:17  [Watchdog]: Wysłano PING
+2025-12-07 23:03:17  [Watchdog]: Arduino OK
+2025-12-07 23:03:25  [Watchdog]: Wysłano PING
+2025-12-07 23:03:25  [Watchdog]: Arduino OK
+2025-12-07 23:03:33  [Watchdog]: Wysłano PING
+2025-12-07 23:03:33  [Watchdog]: Arduino OK
+2025-12-07 23:03:41  [Watchdog]: Wysłano PING
+2025-12-07 23:03:41  [Watchdog]: Arduino OK
+2025-12-07 23:03:49  [Watchdog]: Wysłano PING
+2025-12-07 23:03:49  [Watchdog]: Arduino OK
+2025-12-07 23:03:57  [Watchdog]: Wysłano PING
+2025-12-07 23:03:57  [Watchdog]: Arduino OK
+2025-12-07 23:04:05  [Watchdog]: Wysłano PING
+2025-12-07 23:04:05  [Watchdog]: Arduino OK
+2025-12-07 23:04:13  [Watchdog]: Wysłano PING
+2025-12-07 23:04:13  [Watchdog]: Arduino OK
+2025-12-07 23:04:21  [Watchdog]: Wysłano PING
+2025-12-07 23:04:21  [Watchdog]: Arduino OK
+2025-12-07 23:04:29  [Watchdog]: Wysłano PING
+2025-12-07 23:04:29  [Watchdog]: Arduino OK
+2025-12-07 23:04:37  [Watchdog]: Wysłano PING
+2025-12-07 23:04:37  [Watchdog]: Arduino OK
+2025-12-07 23:04:45  [Watchdog]: Wysłano PING
+2025-12-07 23:04:45  [Watchdog]: Arduino OK
+2025-12-07 23:04:53  [Watchdog]: Wysłano PING
+2025-12-07 23:04:53  [Watchdog]: Arduino OK
+2025-12-07 23:05:01  [Watchdog]: Wysłano PING
+2025-12-07 23:05:01  [Watchdog]: Arduino OK
+2025-12-07 23:05:09  [Watchdog]: Wysłano PING
+2025-12-07 23:05:09  [Watchdog]: Arduino OK
+2025-12-07 23:05:17  [Watchdog]: Wysłano PING
+2025-12-07 23:05:17  [Watchdog]: Arduino OK
+2025-12-07 23:05:25  [Watchdog]: Wysłano PING
+2025-12-07 23:05:25  [Watchdog]: Arduino OK
+2025-12-07 23:05:33  [Watchdog]: Wysłano PING
+2025-12-07 23:05:33  [Watchdog]: Arduino OK
+2025-12-07 23:05:41  [Watchdog]: Wysłano PING
+2025-12-07 23:05:41  [Watchdog]: Arduino OK
+2025-12-07 23:05:49  [Watchdog]: Wysłano PING
+2025-12-07 23:05:49  [Watchdog]: Arduino OK
+2025-12-07 23:05:57  [Watchdog]: Wysłano PING
+2025-12-07 23:05:57  [Watchdog]: Arduino OK
+2025-12-07 23:06:05  [Watchdog]: Wysłano PING
+2025-12-07 23:06:05  [Watchdog]: Arduino OK
+2025-12-07 23:06:13  [Watchdog]: Wysłano PING
+2025-12-07 23:06:13  [Watchdog]: Arduino OK
+2025-12-07 23:06:21  [Watchdog]: Wysłano PING
+2025-12-07 23:06:21  [Watchdog]: Arduino OK
+2025-12-07 23:06:29  [Watchdog]: Wysłano PING
+2025-12-07 23:06:29  [Watchdog]: Arduino OK
+2025-12-07 23:06:37  [Watchdog]: Wysłano PING
+2025-12-07 23:06:37  [Watchdog]: Arduino OK
+2025-12-07 23:06:45  [Watchdog]: Wysłano PING
+2025-12-07 23:06:45  [Watchdog]: Arduino OK
+2025-12-07 23:06:53  [Watchdog]: Wysłano PING
+2025-12-07 23:06:53  [Watchdog]: Arduino OK
+2025-12-07 23:07:01  [Watchdog]: Wysłano PING
+2025-12-07 23:07:01  [Watchdog]: Arduino OK
+2025-12-07 23:07:09  [Watchdog]: Wysłano PING
+2025-12-07 23:07:09  [Watchdog]: Arduino OK
+2025-12-07 23:07:17  [Watchdog]: Wysłano PING
+2025-12-07 23:07:17  [Watchdog]: Arduino OK
+2025-12-07 23:07:25  [Watchdog]: Wysłano PING
+2025-12-07 23:07:25  [Watchdog]: Arduino OK
+2025-12-07 23:07:33  [Watchdog]: Wysłano PING
+2025-12-07 23:07:33  [Watchdog]: Arduino OK
+2025-12-07 23:07:41  [Watchdog]: Wysłano PING
+2025-12-07 23:07:41  [Watchdog]: Arduino OK
+2025-12-07 23:07:49  [Watchdog]: Wysłano PING
+2025-12-07 23:07:49  [Watchdog]: Arduino OK
+2025-12-07 23:07:57  [Watchdog]: Wysłano PING
+2025-12-07 23:07:57  [Watchdog]: Arduino OK
+2025-12-07 23:08:05  [Watchdog]: Wysłano PING
+2025-12-07 23:08:05  [Watchdog]: Arduino OK
+2025-12-07 23:08:13  [Watchdog]: Wysłano PING
+2025-12-07 23:08:13  [Watchdog]: Arduino OK
+2025-12-07 23:08:21  [Watchdog]: Wysłano PING
+2025-12-07 23:08:21  [Watchdog]: Arduino OK
+2025-12-07 23:08:29  [Watchdog]: Wysłano PING
+2025-12-07 23:08:29  [Watchdog]: Arduino OK
+2025-12-07 23:08:37  [Watchdog]: Wysłano PING
+2025-12-07 23:08:37  [Watchdog]: Arduino OK
+2025-12-07 23:08:45  [Watchdog]: Wysłano PING
+2025-12-07 23:08:45  [Watchdog]: Arduino OK
+2025-12-07 23:08:53  [Watchdog]: Wysłano PING
+2025-12-07 23:08:53  [Watchdog]: Arduino OK
+2025-12-07 23:09:01  [Watchdog]: Wysłano PING
+2025-12-07 23:09:01  [Watchdog]: Arduino OK
+2025-12-07 23:09:09  [Watchdog]: Wysłano PING
+2025-12-07 23:09:09  [Watchdog]: Arduino OK
+2025-12-07 23:09:17  [Watchdog]: Wysłano PING
+2025-12-07 23:09:17  [Watchdog]: Arduino OK
+2025-12-07 23:09:25  [Watchdog]: Wysłano PING
+2025-12-07 23:09:25  [Watchdog]: Arduino OK
+2025-12-07 23:09:33  [Watchdog]: Wysłano PING
+2025-12-07 23:09:33  [Watchdog]: Arduino OK
+2025-12-07 23:09:41  [Watchdog]: Wysłano PING
+2025-12-07 23:09:41  [Watchdog]: Arduino OK
+2025-12-07 23:09:49  [Watchdog]: Wysłano PING
+2025-12-07 23:09:49  [Watchdog]: Arduino OK
+2025-12-07 23:09:57  [Watchdog]: Wysłano PING
+2025-12-07 23:09:57  [Watchdog]: Arduino OK
+2025-12-07 23:10:05  [Watchdog]: Wysłano PING
+2025-12-07 23:10:05  [Watchdog]: Arduino OK
+2025-12-07 23:10:13  [Watchdog]: Wysłano PING
+2025-12-07 23:10:13  [Watchdog]: Arduino OK
+2025-12-07 23:10:21  [Watchdog]: Wysłano PING
+2025-12-07 23:10:21  [Watchdog]: Arduino OK
+2025-12-07 23:10:29  [Watchdog]: Wysłano PING
+2025-12-07 23:10:29  [Watchdog]: Arduino OK
+2025-12-07 23:10:37  [Watchdog]: Wysłano PING
+2025-12-07 23:10:37  [Watchdog]: Arduino OK
+2025-12-07 23:10:45  [Watchdog]: Wysłano PING
+2025-12-07 23:10:45  [Watchdog]: Arduino OK
+2025-12-07 23:10:53  [Watchdog]: Wysłano PING
+2025-12-07 23:10:53  [Watchdog]: Arduino OK
+2025-12-07 23:11:01  [Watchdog]: Wysłano PING
+2025-12-07 23:11:01  [Watchdog]: Arduino OK
+2025-12-07 23:11:09  [Watchdog]: Wysłano PING
+2025-12-07 23:11:09  [Watchdog]: Arduino OK
+2025-12-07 23:11:17  [Watchdog]: Wysłano PING
+2025-12-07 23:11:17  [Watchdog]: Arduino OK
+2025-12-07 23:11:26  [Watchdog]: Wysłano PING
+2025-12-07 23:11:26  [Watchdog]: Arduino OK
+2025-12-07 23:11:34  [Watchdog]: Wysłano PING
+2025-12-07 23:11:34  [Watchdog]: Arduino OK
+2025-12-07 23:11:42  [Watchdog]: Wysłano PING
+2025-12-07 23:11:42  [Watchdog]: Arduino OK
+2025-12-07 23:11:50  [Watchdog]: Wysłano PING
+2025-12-07 23:11:50  [Watchdog]: Arduino OK
+2025-12-07 23:11:58  [Watchdog]: Wysłano PING
+2025-12-07 23:11:58  [Watchdog]: Arduino OK
+2025-12-07 23:12:06  [Watchdog]: Wysłano PING
+2025-12-07 23:12:06  [Watchdog]: Arduino OK
+2025-12-07 23:12:14  [Watchdog]: Wysłano PING
+2025-12-07 23:12:14  [Watchdog]: Arduino OK
+2025-12-07 23:12:22  [Watchdog]: Wysłano PING
+2025-12-07 23:12:22  [Watchdog]: Arduino OK
+2025-12-07 23:12:30  [Watchdog]: Wysłano PING
+2025-12-07 23:12:30  [Watchdog]: Arduino OK
+2025-12-07 23:12:38  [Watchdog]: Wysłano PING
+2025-12-07 23:12:38  [Watchdog]: Arduino OK
+2025-12-07 23:12:46  [Watchdog]: Wysłano PING
+2025-12-07 23:12:46  [Watchdog]: Arduino OK
+2025-12-07 23:12:54  [Watchdog]: Wysłano PING
+2025-12-07 23:12:54  [Watchdog]: Arduino OK
+2025-12-07 23:13:02  [Watchdog]: Wysłano PING
+2025-12-07 23:13:02  [Watchdog]: Arduino OK
+2025-12-07 23:13:10  [Watchdog]: Wysłano PING
+2025-12-07 23:13:10  [Watchdog]: Arduino OK
+2025-12-07 23:13:18  [Watchdog]: Wysłano PING
+2025-12-07 23:13:18  [Watchdog]: Arduino OK
+2025-12-07 23:13:26  [Watchdog]: Wysłano PING
+2025-12-07 23:13:26  [Watchdog]: Arduino OK
+2025-12-07 23:13:34  [Watchdog]: Wysłano PING
+2025-12-07 23:13:34  [Watchdog]: Arduino OK
+2025-12-07 23:13:42  [Watchdog]: Wysłano PING
+2025-12-07 23:13:42  [Watchdog]: Arduino OK
+2025-12-07 23:13:50  [Watchdog]: Wysłano PING
+2025-12-07 23:13:50  [Watchdog]: Arduino OK
+2025-12-07 23:13:58  [Watchdog]: Wysłano PING
+2025-12-07 23:13:58  [Watchdog]: Arduino OK
+2025-12-07 23:14:06  [Watchdog]: Wysłano PING
+2025-12-07 23:14:06  [Watchdog]: Arduino OK
+2025-12-07 23:14:14  [Watchdog]: Wysłano PING
+2025-12-07 23:14:14  [Watchdog]: Arduino OK
+2025-12-07 23:14:22  [Watchdog]: Wysłano PING
+2025-12-07 23:14:22  [Watchdog]: Arduino OK
+2025-12-07 23:14:30  [Watchdog]: Wysłano PING
+2025-12-07 23:14:30  [Watchdog]: Arduino OK
+2025-12-07 23:14:38  [Watchdog]: Wysłano PING
+2025-12-07 23:14:38  [Watchdog]: Arduino OK
+2025-12-07 23:14:46  [Watchdog]: Wysłano PING
+2025-12-07 23:14:46  [Watchdog]: Arduino OK
+2025-12-07 23:14:54  [Watchdog]: Wysłano PING
+2025-12-07 23:14:54  [Watchdog]: Arduino OK
+2025-12-07 23:15:02  [Watchdog]: Wysłano PING
+2025-12-07 23:15:02  [Watchdog]: Arduino OK
+2025-12-07 23:15:10  [Watchdog]: Wysłano PING
+2025-12-07 23:15:10  [Watchdog]: Arduino OK
+2025-12-07 23:15:18  [Watchdog]: Wysłano PING
+2025-12-07 23:15:18  [Watchdog]: Arduino OK
+2025-12-07 23:15:26  [Watchdog]: Wysłano PING
+2025-12-07 23:15:26  [Watchdog]: Arduino OK
+2025-12-07 23:15:34  [Watchdog]: Wysłano PING
+2025-12-07 23:15:34  [Watchdog]: Arduino OK
+2025-12-07 23:15:42  [Watchdog]: Wysłano PING
+2025-12-07 23:15:42  [Watchdog]: Arduino OK
+2025-12-07 23:15:50  [Watchdog]: Wysłano PING
+2025-12-07 23:15:50  [Watchdog]: Arduino OK
+2025-12-07 23:15:58  [Watchdog]: Wysłano PING
+2025-12-07 23:15:58  [Watchdog]: Arduino OK
+2025-12-07 23:16:06  [Watchdog]: Wysłano PING
+2025-12-07 23:16:06  [Watchdog]: Arduino OK
+2025-12-07 23:16:14  [Watchdog]: Wysłano PING
+2025-12-07 23:16:14  [Watchdog]: Arduino OK
+2025-12-07 23:16:22  [Watchdog]: Wysłano PING
+2025-12-07 23:16:22  [Watchdog]: Arduino OK
+2025-12-07 23:16:30  [Watchdog]: Wysłano PING
+2025-12-07 23:16:30  [Watchdog]: Arduino OK
+2025-12-07 23:16:38  [Watchdog]: Wysłano PING
+2025-12-07 23:16:38  [Watchdog]: Arduino OK
+2025-12-07 23:16:46  [Watchdog]: Wysłano PING
+2025-12-07 23:16:46  [Watchdog]: Arduino OK
+2025-12-07 23:16:54  [Watchdog]: Wysłano PING
+2025-12-07 23:16:54  [Watchdog]: Arduino OK
+2025-12-07 23:17:02  [Watchdog]: Wysłano PING
+2025-12-07 23:17:02  [Watchdog]: Arduino OK
+2025-12-07 23:17:10  [Watchdog]: Wysłano PING
+2025-12-07 23:17:10  [Watchdog]: Arduino OK
+2025-12-07 23:17:18  [Watchdog]: Wysłano PING
+2025-12-07 23:17:18  [Watchdog]: Arduino OK
+2025-12-07 23:17:26  [Watchdog]: Wysłano PING
+2025-12-07 23:17:26  [Watchdog]: Arduino OK
+2025-12-07 23:17:34  [Watchdog]: Wysłano PING
+2025-12-07 23:17:34  [Watchdog]: Arduino OK
+2025-12-07 23:17:42  [Watchdog]: Wysłano PING
+2025-12-07 23:17:42  [Watchdog]: Arduino OK
+2025-12-07 23:17:50  [Watchdog]: Wysłano PING
+2025-12-07 23:17:50  [Watchdog]: Arduino OK
+2025-12-07 23:17:58  [Watchdog]: Wysłano PING
+2025-12-07 23:17:58  [Watchdog]: Arduino OK
+2025-12-07 23:18:06  [Watchdog]: Wysłano PING
+2025-12-07 23:18:06  [Watchdog]: Arduino OK
+2025-12-07 23:18:14  [Watchdog]: Wysłano PING
+2025-12-07 23:18:14  [Watchdog]: Arduino OK
+2025-12-07 23:18:22  [Watchdog]: Wysłano PING
+2025-12-07 23:18:22  [Watchdog]: Arduino OK
+2025-12-07 23:18:30  [Watchdog]: Wysłano PING
+2025-12-07 23:18:30  [Watchdog]: Arduino OK
+2025-12-07 23:18:38  [Watchdog]: Wysłano PING
+2025-12-07 23:18:38  [Watchdog]: Arduino OK
+2025-12-07 23:18:46  [Watchdog]: Wysłano PING
+2025-12-07 23:18:46  [Watchdog]: Arduino OK
+2025-12-07 23:18:54  [Watchdog]: Wysłano PING
+2025-12-07 23:18:54  [Watchdog]: Arduino OK
+2025-12-07 23:19:02  [Watchdog]: Wysłano PING
+2025-12-07 23:19:02  [Watchdog]: Arduino OK
+2025-12-07 23:19:10  [Watchdog]: Wysłano PING
+2025-12-07 23:19:10  [Watchdog]: Arduino OK
+2025-12-07 23:19:18  [Watchdog]: Wysłano PING
+2025-12-07 23:19:18  [Watchdog]: Arduino OK
+2025-12-07 23:19:26  [Watchdog]: Wysłano PING
+2025-12-07 23:19:26  [Watchdog]: Arduino OK
+2025-12-07 23:19:34  [Watchdog]: Wysłano PING
+2025-12-07 23:19:34  [Watchdog]: Arduino OK
+2025-12-07 23:19:37  lfjazda
+2025-12-07 23:19:38  Odpowiedz Arduino: ACK
+2025-12-07 23:19:38  Odpowiedz Arduino: Otrzymano komendę: LFJAZDA
+2025-12-07 23:19:38  Odpowiedz Arduino: Rozpoczynam Jazde po linii
+2025-12-07 23:19:38  Odpowiedz Arduino: Start line-follow!
+2025-12-07 23:19:42  [Watchdog]: Wysłano PING
+2025-12-07 23:19:43  [Watchdog]: Arduino OK
+2025-12-07 23:19:51  [Watchdog]: Wysłano PING
+2025-12-07 23:19:51  [Watchdog]: Arduino OK
